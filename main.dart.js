@@ -34794,25 +34794,22 @@ s=p.d.a
 if((s.a.a&30)===0)s.dj(0)
 s=p.f
 s.toString
-r=p.a.c.d
-s.d=r
-q=s.c
-s.c=q+r
+r=p.a.c
+q=s.d=r.d
+s.c=r.e?s.c+q:q
 p.Hw()
 s=p.a.c
-r=p.f
-r.b=p.r=D.a7V(r.c,s.c)},
-tn(){var s=P.ad6(this.a.c.x,new O.Oa(this))
-return s},
+q=p.f
+q.b=p.r=D.a7V(q.c,s.c)},
+tn(){var s=this.a.c
+return s.r?P.ad6(s.x,new O.Oa(this)):null},
 wP(){var s=this.e
 if(s!=null){s.aS(0)
 this.e=null}},
-Hw(){var s,r=this
-r.a.toString
-s=r.e
-if(s!=null)return
-r.wP()
-if(r.e==null)r.e=r.tn()},
+Hw(){var s=this,r=s.a.c.r
+if(r&&s.e!=null)return
+s.wP()
+if(r)if(s.e==null)s.e=s.tn()},
 Kc(a){var s=null,r=M.cI(s,a,s,s,s,this.a.c.a,s,s,s)
 return new D.it(new U.cM(r,new O.O6(this),s,t.cq),P.aK([C.JJ,new D.cd(new O.O7(),new O.O8(this),t.pg)],t.n,t.ob),s,!1,s,s)},
 zt(a){this.a.toString
@@ -34824,26 +34821,30 @@ K8(a,b,c){return this.zx(a,b,c,null)},
 K9(a,b,c){return this.zx(a,null,b,c)},
 m(a){this.NC(0)
 this.wP()},
-N(a,b){var s=this,r=s.a.c,q=s.f.b
-if(q==null)q=$.agH()
-return s.Kc(new D.tU(r.ch,!1,q,null,!0,new O.O0(s),G.acY(new O.O1(s),null),null))}}
+N(a,b){var s=this,r=s.a,q=r.c,p=s.f.b
+r=q.e?null:r.r
+if(p==null)p=$.agH()
+return s.Kc(new D.tU(q.ch,!1,p,null,!0,new O.O0(s),G.acY(new O.O1(s),r),null))}}
 O.Oa.prototype={
-$1(a){var s,r,q,p,o,n=this.a,m=n.c
-m.toString
-s=T.tA(m,t.X)
+$1(a){var s,r,q,p,o,n,m,l=this.a,k=l.c
+k.toString
+s=T.tA(k,t.X)
 if((s==null?null:s.ghM())===!1)return
-r=n.x
-n.x=C.wf
-m=t.sa
-q=m.a(C.b.gbJ(n.f.b.d))
+r=l.x
+l.x=C.wf
+k=t.sa
+q=k.a(C.b.gbJ(l.f.b.d))
 p=q.grO(q)
 p.toString
-p=C.c.ay(p)
-o=n.a
-o.toString
-o=o.c
-q=m.a(C.b.gbJ(n.f.b.d))
-q.dM(q.lY(p+1),o.z,o.y).bj(0,new O.O9(n,r),t.H)},
+o=C.c.ay(p)+1
+p=l.a
+n=p.r
+if(o>=n&&!p.c.e)o=0
+m=l.f.b
+m.toString
+p=p.c
+q=k.a(C.b.gbJ(m.d))
+q.dM(q.lY(o),p.z,p.y).bj(0,new O.O9(l,r),t.H)},
 $S:93}
 O.O9.prototype={
 $1(a){this.a.x=this.b
@@ -56645,7 +56646,7 @@ p=t.E
 o=H.a([],p)
 n=0
 while(!0){m=g.f
-if(!(n<m.length&&n<i&&m[n].length<=6))break
+if(!(n<m.length&&n<i&&m[n].length<=7))break
 l=new Y.dn(C.l,1,C.V)
 m=m[n]
 o.push(M.cI(C.W,L.es(m,k,k,new A.r(!0,C.j,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),k,k),k,k,new S.e3(C.l,k,new F.cH(l,l,l,l),C.hX,k,k,C.a4),k,new V.b_(5,5,5,5),new V.b_(8,0,8,0),k));++n}return D.f8(k,M.BX(C.aq,h,M.cI(k,T.o8(H.a([s,r,T.abn(T.OE(H.a([q,f,new R.vb(k),M.cI(k,T.o8(o,C.aB,C.b1,C.bi),k,k,k,k,k,k,j.a.a*0.3),T.c8(k,15,k)],p),C.cv,C.b1),1)],p),C.aB,C.b1,C.bi),k,k,k,220,k,new V.b_(8,8,8,8),k),C.L,C.j,8,k,k,k,k,C.bx),C.Q,!1,k,k,k,k,k,k,k,k,k,k,new V.Vl(this,b),k,k,k,k,k)}}
@@ -56678,7 +56679,7 @@ else H.i(H.cV("_curve1"))
 r.a1k()
 r.mc()},
 N(a,b){var s,r,q=this,p=17976931348623157e292,o=null,n=T.c8(o,10,o),m=T.c8(o,10,o),l=q.z
-l=l.toLowerCase()==="all"?"Featured Skills":"Projects built with "+l
+l=l.toLowerCase()==="all"?"Projects built with Featured Skills":"Projects built with "+l
 s=t.E
 s=H.a([n,m,T.o8(H.a([L.es(l,o,o,A.dU(o,o,C.l,o,o,o,o,o,o,o,o,15,o,C.bd,o,o,!0,o,o,o,o,o,o,o,o),o,o),new R.vb(o),T.c8(o,o,10),D.f8(o,L.a7l(C.zl,C.l,50),C.Q,!1,o,o,o,o,o,o,o,o,o,o,new O.a1W(q),o,o,o,o,o)],s),C.aB,C.b1,C.bi),T.c8(o,5,o),M.cI(o,new X.qj(new O.a1X(q),0,C.m,q.e),o,o,o,50,o,o,o),T.c8(o,10,o)],s)
 for(n=q.cx,m=n.length,r=0;r<n.length;n.length===m||(0,H.G)(n),++r)s.push(new T.ii(C.bt,new V.Dj(n[r],o),o))
@@ -56772,7 +56773,7 @@ n.e="https://aimart-web-et3ha.ondigitalocean.app/"
 n.b="E-commerce webstore developed to enable image search via Azure Vision APIs. This was a part of the MCT West Africa Summit 2021 on the Data, IOT and Azure track which explained how Azure can easily be used to make regular search functionality more fun and intelligent. (https://www.youtube.com/watch?v=1iX7TwcFyTc)"
 n.r=H.a([],s)
 n.f=H.a(["dart","flask","flutter","git","heroku","ios","python","web"],s)
-n.x=P.aK(["dart",g,"digital-ocean","Server offering used to host frontend service.","flask",e,"flutter",a1,"git",c,"heroku","Server offering was used to host backend service.","python",a,"web",a0],r,r)
+n.x=P.aK(["dart",g,"digital-ocean","Server offering used to host frontend service.","flask",e,"flutter",d,"git",c,"heroku","Server offering was used to host backend service.","python",a,"web",a0],r,r)
 m=O.ub()
 m.a="Ionic Stats"
 m.c=i
@@ -56795,7 +56796,7 @@ TL(){var s=null
 return T.o8(H.a([D.f8(s,U.rS("images/github.png",C.j,C.bn,25,s),C.Q,!1,s,s,s,s,s,s,s,s,s,s,new O.a1P(),s,s,s,s,s),T.c8(s,s,20),D.f8(s,U.rS("images/linkedin.png",C.j,C.bn,25,s),C.Q,!1,s,s,s,s,s,s,s,s,s,s,new O.a1Q(),s,s,s,s,s),T.c8(s,s,20),D.f8(s,U.rS("images/medium.png",C.j,C.bn,25,s),C.Q,!1,s,s,s,s,s,s,s,s,s,s,new O.a1R(),s,s,s,s,s),T.c8(s,s,20),D.f8(s,U.rS("images/web.png",C.j,C.bn,25,s),C.Q,!1,s,s,s,s,s,s,s,s,s,s,new O.a1S(),s,s,s,s,s)],t.E),C.aB,C.fD,C.bi)}}
 O.a1Y.prototype={
 $2(a,b){var s=null,r=t.E
-return H.a([new E.v8(new Z.ry(M.cI(s,T.o8(H.a([],r),C.aB,C.o2,C.bi),s,s,s,s,new V.b_(0,15,0,0),s,s),M.cI(C.W,T.OE(H.a([L.es("Algure Devs",s,s,A.dU(s,s,C.j,s,s,s,s,s,s,s,s,35,s,C.bd,s,s,!0,s,s,s,s,s,s,s,s),C.ch,s),T.c8(s,50,s),this.a.TL()],r),C.aB,C.fD),s,s,new S.e3(s,new X.Al(new L.mH("images/me.jpg",s,s),C.df),s,s,s,s,C.a4),s,s,s,17976931348623157e292),!0,s),C.l,new T.dr(C.j,s,s),new T.dr(C.j,s,s),250,!1,!0,s)],r)},
+return H.a([new E.v8(new Z.ry(M.cI(s,T.o8(H.a([],r),C.aB,C.o2,C.bi),s,s,s,s,new V.b_(0,15,0,0),s,s),M.cI(C.W,T.OE(H.a([L.es("Algure Devs\nPortfolio",s,s,A.dU(s,s,C.j,s,s,s,s,s,s,s,s,35,s,C.bd,s,s,!0,s,s,s,s,s,s,s,s),C.ch,s),T.c8(s,50,s),this.a.TL()],r),C.aB,C.fD),s,s,new S.e3(s,new X.Al(new L.mH("images/me.jpg",s,s),C.df),s,s,s,s,C.a4),s,s,s,17976931348623157e292),!0,s),C.l,new T.dr(C.j,s,s),new T.dr(C.j,s,s),250,!1,!0,s)],r)},
 $S:337}
 O.a1W.prototype={
 $0(){this.a.Xy(!1)},
@@ -56850,13 +56851,15 @@ Y.Jt.prototype={
 N(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=T.c8(g,25,g),e=D.f8(g,L.a7l(C.iO,C.l,g),C.Q,!1,g,g,g,g,g,g,g,g,g,g,new Y.a2V(b),g,g,g,g,g),d=T.c8(g,25,g),c=h.a.c.a
 c.toString
 s=h.TF()
-r=P.bQ(0,0,3)
-q=P.bQ(0,800,0)
-p=s.length
-o=$.O
-c=T.zm(T.a7j(new O.qN(new B.NZ(400,1.7777777777777777,0.8,0,!0,!1,!0,r,q,C.aR,!0,C.m),s,new G.NY(new P.aG(new P.U(o,t.dX),t.Fe)),p,g),c),g,g)
+r=h.a.c
+q=r.r.length>1
+p=P.bQ(0,0,3)
+o=P.bQ(0,800,0)
+n=s.length
+m=$.O
+c=T.zm(T.a7j(new O.qN(new B.NZ(400,1.7777777777777777,0.8,0,q,!1,q,p,o,C.aR,!0,C.m),s,new G.NY(new P.aG(new P.U(m,t.dX),t.Fe)),n,g),c),g,g)
 s=T.c8(g,10,g)
-r=h.a.c.e
+r=r.e
 if(r==null)r=""
 r=D.f8(g,L.es(r,g,g,A.dU(g,g,C.fE,g,g,g,g,g,g,g,g,20,g,C.bd,g,g,!0,g,g,g,g,g,g,g,g),g,g),C.Q,!1,g,g,g,g,g,g,g,g,g,g,new Y.a2W(h),g,g,g,g,g)
 q=T.c8(g,10,g)
