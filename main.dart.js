@@ -56668,28 +56668,28 @@ case 5:s=3
 break
 case 4:return P.a5(null,r)}})
 return P.a6($async$mc,r)},
-a1j(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c="Completed",b="Contract- Fullstack Developer",a="https://audit-web-build-o79x9.ondigitalocean.app/",a0="Live web app",a1="Programming language used to develop new front end software for web platform.",a2="Server offering used to deploy and test final release of software (front and back end).",a3="Python framework used to develop the backend software.",a4="Dart framework used to develop front end software.",a5="All code development and version controls were managed via git/github. It was also used to setup continuos deployment and delivery pipelines to development servers.",a6="Server offering was used for testing during software development (front and back end).",a7="Programming language used to develop back end software for the web platform.",a8="Used to send out SMS.",a9="Software was built as a web application.",b0="Contract-  Fullstack/Mobile Developer",b1="Dart framework used to develop front end software as well as android and ios versions of the mobile applications.",b2="iOS mobile application is developed to contain all features.",b3="artificial-intelligence",b4="Software was built as an android application.",b5="Programming language used to develop entire software.",b6="Framework used to develop the entire software.",b7="Open source",b8="https://github.com/Algure/Cracker-",b9="Programming language used to develop library",c0=O.fj()
-c0.a="FlockDialer"
-c0.c=c
-c0.d=b
-c0.e=a
-c0.z=a0
-c0.b="Web application intended to enable users dial a company's help line and automatically connect to customers when the call goes through. A payment would have to be made from a website to access the client features."
+a1j(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c="Completed",b="Contract- Fullstack Developer",a="Live web app",a0="Programming language used to develop new front end software for web platform.",a1="Server offering used to deploy and test final release of software (front and back end).",a2="Python framework used to develop the backend software.",a3="Dart framework used to develop front end software.",a4="All code development and version controls were managed via git/github. It was also used to setup continuos deployment and delivery pipelines to development servers.",a5="Server offering was used for testing during software development (front and back end).",a6="Programming language used to develop back end software for the web platform.",a7="Used to send out SMS.",a8="Software was built as a web application.",a9="Contract-  Fullstack/Mobile Developer",b0="Dart framework used to develop front end software as well as android and ios versions of the mobile applications.",b1="iOS mobile application is developed to contain all features.",b2="artificial-intelligence",b3="Software was built as an android application.",b4="Programming language used to develop entire software.",b5="Framework used to develop the entire software.",b6="Open source",b7="https://github.com/Algure/Cracker-",b8="Programming language used to develop library",b9=O.fj()
+b9.a="FlockDialer"
+b9.c=c
+b9.d=b
+b9.e="https://flockdial.net/"
+b9.z=a
+b9.b="Web application intended to enable users dial a company's help line and automatically connect to customers when the call goes through. A payment would have to be made from a website to access the client features."
 s=t.s
-c0.r=H.a(["https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/Screenshot%202021-12-28%20at%2019.06.30%201.png?alt=media&token=c8319310-c0e7-4e6d-add4-494e12ae1381","https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/Screenshot%202021-12-28%20at%2019.16.44.png?alt=media&token=c086a60d-ae73-4be7-9cc3-3ce5f20ed123","https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/Screenshot%202021-12-28%20at%2019.17.21.png?alt=media&token=1e2b1b02-278f-4978-9092-8c1633261178"],s)
-c0.f=H.a(["dart","digital-ocean","django","flutter","git","heroku","python","web"],s)
+b9.r=H.a(["https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/Screenshot%202021-12-28%20at%2019.06.30%201.png?alt=media&token=c8319310-c0e7-4e6d-add4-494e12ae1381","https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/Screenshot%202021-12-28%20at%2019.16.44.png?alt=media&token=c086a60d-ae73-4be7-9cc3-3ce5f20ed123","https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/Screenshot%202021-12-28%20at%2019.17.21.png?alt=media&token=1e2b1b02-278f-4978-9092-8c1633261178"],s)
+b9.f=H.a(["dart","digital-ocean","django","flutter","git","heroku","python","web"],s)
 r=t.N
-c0.x=P.aw(["dart",a1,"digital-ocean",a2,"django",a3,"flutter",a4,"git",a5,"heroku",a6,"python",a7,"twilio",a8,"web",a9],r,r)
+b9.x=P.aw(["dart",a0,"digital-ocean",a1,"django",a2,"flutter",a3,"git",a4,"heroku",a5,"python",a6,"twilio",a7,"web",a8],r,r)
 q=O.fj()
 q.a="Audit"
 q.c=c
 q.d=b
 q.z="Demo web application"
-q.e=a
+q.e="https://audit-web-build-o79x9.ondigitalocean.app/"
 q.b="Web application intended to enable DJs monitor audience reaction to their beats in real time.\nClient required a stable MVP to be developed under contract and contract was completed to client satisfaction."
 q.r=H.a(["https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/audit%2FScreenshot%202021-12-26%20at%2014.44.22.png?alt=media&token=a1fc8027-a5ef-4142-8ac2-a58417be4446","https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/audit%2FScreenshot%202021-12-26%20at%2014.47.44.png?alt=media&token=7e60ecd1-c1d8-4504-b6e6-ae2e3034f68b","https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/audit%2FScreenshot%202021-12-26%20at%2014.48.58.png?alt=media&token=955d18d4-400e-41cb-8112-fdbfb40cfed6","https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/audit%2FScreenshot%202021-12-26%20at%2014.50.59.png?alt=media&token=d1c58e45-0718-47e3-a616-16212cf60f4e","https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/audit%2FScreenshot%202021-12-26%20at%2014.51.13.png?alt=media&token=2e54aefa-dfb0-4523-85ae-46d2d925730e","https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/audit%2FScreenshot%202021-12-26%20at%2014.52.21.png?alt=media&token=ce93cb1a-0fc1-4d93-bc99-30e211d37a45"],s)
 q.f=H.a(["azure","dart","digital-ocean","django","flutter","git","heroku","python","web"],s)
-q.x=P.aw(["azure","Blob storage used to save/store media files via a custom built open source flutter plugin.","dart",a1,"digital-ocean",a2,"django",a3,"flutter",a4,"git",a5,"heroku",a6,"python",a7,"web",a9],r,r)
+q.x=P.aw(["azure","Blob storage used to save/store media files via a custom built open source flutter plugin.","dart",a0,"digital-ocean",a1,"django",a2,"flutter",a3,"git",a4,"heroku",a5,"python",a6,"web",a8],r,r)
 p=O.fj()
 p.a="TextNPS"
 p.c=c
@@ -56699,17 +56699,17 @@ p.e="https://textnps.engagementnova.com/"
 p.b="Web application intended to enable surveys to be carried out via text message. The web application is a closed system with access granted only by admin. Users can create companies and create surveys for each company. Each employee in a survey receives SMS questions of questions in the survey (one by one) and they respond by sending back an SMS to the phone number. When all employees attached to a company have answered all questions, the survey responses are collated. Survey responses may also be reviewed at any time during the survey. "
 p.r=H.a(["https://portfolioalgure.blob.core.windows.net/media/Screenshot 2021-12-26 at 15.11.19.png","https://portfolioalgure.blob.core.windows.net/media/Screenshot 2021-12-26 at 15.35.47.png","https://portfolioalgure.blob.core.windows.net/media/Screenshot 2021-12-26 at 15.36.31.png","https://portfolioalgure.blob.core.windows.net/media/Screenshot 2021-12-26 at 15.36.58.png","https://portfolioalgure.blob.core.windows.net/media/Screenshot 2021-12-26 at 15.37.23.png","https://portfolioalgure.blob.core.windows.net/media/Screenshot 2021-12-26 at 15.38.42.png","https://portfolioalgure.blob.core.windows.net/media/Screenshot 2021-12-26 at 15.39.22.png"],s)
 p.f=H.a(["dart","digital-ocean","django","flutter","git","heroku","python","twilio","web"],s)
-p.x=P.aw(["dart",a1,"digital-ocean",a2,"django",a3,"flutter",a4,"git",a5,"heroku",a6,"python",a7,"twilio",a8,"web",a9],r,r)
+p.x=P.aw(["dart",a0,"digital-ocean",a1,"django",a2,"flutter",a3,"git",a4,"heroku",a5,"python",a6,"twilio",a7,"web",a8],r,r)
 o=O.fj()
 o.a="Sabicourse"
 o.c=c
-o.d=b0
+o.d=a9
 o.z="Live web app- contains links to published mobile applications."
 o.e="https://sabicourse.com/"
 o.b="Educational software built to enable users pay for courses online and access course videos via download or live stream on mobile application. "
 o.r=H.a(["https://portfolioalgure.blob.core.windows.net/media/Browse New Course.png","https://portfolioalgure.blob.core.windows.net/media/Course Modules(Following Tutor).png","https://portfolioalgure.blob.core.windows.net/media/Fashion.png","https://portfolioalgure.blob.core.windows.net/media/Following Tutor 2.png"],s)
 o.f=H.a(["android","dart","digital-ocean","django","flutter","firebase","git","heroku","ios","python","web"],s)
-o.x=P.aw(["android","Android mobile application was developed to enable users access course offerings. [Submitted to the Google play store]","dart","Programming language used to develop new front end software for web and mobile platforms.","digital-ocean",a2,"django",a3,"firebase","Used to implement deeplinking.","flutter",b1,"git",a5,"heroku",a6,"ios","iOS mobile application was developed to enable users access course offerings. [Live on Apple app store]","python",a7,"web","Admin software was developed as a web application to enable system management [Design and details are protected by NDA]"],r,r)
+o.x=P.aw(["android","Android mobile application was developed to enable users access course offerings. [Submitted to the Google play store]","dart","Programming language used to develop new front end software for web and mobile platforms.","digital-ocean",a1,"django",a2,"firebase","Used to implement deeplinking.","flutter",b0,"git",a4,"heroku",a5,"ios","iOS mobile application was developed to enable users access course offerings. [Live on Apple app store]","python",a6,"web","Admin software was developed as a web application to enable system management [Design and details are protected by NDA]"],r,r)
 n=O.fj()
 n.a="Gmart"
 n.c=c
@@ -56719,27 +56719,27 @@ n.e="https://drive.google.com/file/d/1a2cH6a4O9jvusolP05ObmmX-cc-DL8jB/view?usp=
 n.b="Ecommerce software built to enable users buy, sell and share items from their mobile."
 n.r=H.a(["https://portfolioalgure.blob.core.windows.net/media/Screenshot_20211227-185714 (1).png","https://portfolioalgure.blob.core.windows.net/media/Screenshot_20211227-185703.png","https://portfolioalgure.blob.core.windows.net/media/Screenshot_20211227-185721.png"],s)
 n.f=H.a(["android","azure","cloud","dart","C#","flutter","firebase","git","ios","web"],s)
-n.x=P.aw(["android","Android mobile application was developed to enable users upload items when accounts have been activated as sellers.","azure","Cloud functions (backend service) is hosted on Azure App Functions service. ","C#","Programming language used to develop cloud backend.","dart","Programming language used to develop mobile application.","firebase","Used to implement deeplinking and user authentication.","flutter","Dart framework used to develop android and ios versions of the mobile applications.","git",a5,"ios",b2],r,r)
+n.x=P.aw(["android","Android mobile application was developed to enable users upload items when accounts have been activated as sellers.","azure","Cloud functions (backend service) is hosted on Azure App Functions service. ","C#","Programming language used to develop cloud backend.","dart","Programming language used to develop mobile application.","firebase","Used to implement deeplinking and user authentication.","flutter","Dart framework used to develop android and ios versions of the mobile applications.","git",a4,"ios",b1],r,r)
 m=O.fj()
 m.a="Seamless"
 m.c="In Review"
-m.d=b0
+m.d=a9
 m.z="Demo web app"
 m.e="https://giddywebbuild-jlbil.ondigitalocean.app/"
 m.b="E-learning / lifestyle software built to enable users manage school activities and access educational course documents, videos and tests. All features of the software are developed to work on andoid, iOS and web. "
 m.r=H.a([],s)
 m.f=H.a(["android","dart","digital-ocean","flask","flutter","git","heroku","ios","python","web"],s)
-m.x=P.aw(["android","Android mobile application is developed to contain all features.","dart",a1,"digital-ocean",a2,"flask",a3,"flutter",b1,"git",a5,"heroku",a6,"ios",b2,"python",a7,"web","Web application is developed to contain all features."],r,r)
+m.x=P.aw(["android","Android mobile application is developed to contain all features.","dart",a0,"digital-ocean",a1,"flask",a2,"flutter",b0,"git",a4,"heroku",a5,"ios",b1,"python",a6,"web","Web application is developed to contain all features."],r,r)
 l=O.fj()
 l.a="AiMart"
 l.c=c
 l.d="Seminar Presentation"
 l.e="https://aimart-web-et3ha.ondigitalocean.app/"
-l.z=a0
+l.z=a
 l.b="Ecommerce web store developed to enable image search via Azure Vision APIs. This was a part of the MCT West Africa Summit 2021 on the Data, IOT and Azure track which explained how Azure can easily be used to make regular search functionality more fun and intelligent. (https://www.youtube.com/watch?v=1iX7TwcFyTc)"
 l.r=H.a(["https://portfolioalgure.blob.core.windows.net/media/Screenshot 2021-12-27 at 19.30.13.png"],s)
-l.f=H.a(["azure","dart","flask","flutter",b3,"git","heroku","python","web"],s)
-l.x=P.aw([b3,"Pre trained production grade artificial intelligence computer vision models were used to analyse images.","azure","Cognitive search service offered by Azure was used for an optimised search experience. Azure AI models were also implemented.","dart",a1,"digital-ocean","Server offering used to host frontend service.","flask",a3,"flutter",a4,"git",a5,"heroku","Server offering was used to host backend service.","python",a7,"web",a9],r,r)
+l.f=H.a(["azure","dart","flask","flutter",b2,"git","heroku","python","web"],s)
+l.x=P.aw([b2,"Pre trained production grade artificial intelligence computer vision models were used to analyse images.","azure","Cognitive search service offered by Azure was used for an optimised search experience. Azure AI models were also implemented.","dart",a0,"digital-ocean","Server offering used to host frontend service.","flask",a2,"flutter",a3,"git",a4,"heroku","Server offering was used to host backend service.","python",a6,"web",a8],r,r)
 k=O.fj()
 k.a="Ionic Stats"
 k.c=c
@@ -56749,7 +56749,7 @@ k.e="https://gist.github.com/Algure/eb66977d2c5235100e5131a637f127ea"
 k.b="Scenes developed as part of Unity game."
 k.r=H.a([],s)
 k.f=H.a(["android","C#","git","unity"],s)
-k.x=P.aw(["android",b4,"C#",b5,"git",a5,"unity",b6],r,r)
+k.x=P.aw(["android",b3,"C#",b4,"git",a4,"unity",b5],r,r)
 j=O.fj()
 j.a="Damager"
 j.c=c
@@ -56759,43 +56759,43 @@ j.e="https://drive.google.com/file/d/1Xdp20WFkm3hnmTPiSdoWS0m40m19gjEd/view?usp=
 j.b="Scenes developed as part of Unity game. The game is designed to progressively damage a character's muscle as per user request."
 j.r=H.a(["https://portfolioalgure.blob.core.windows.net/media/Screenshot_20211227-175243.png"],s)
 j.f=H.a(["android","C#","git","unity"],s)
-j.x=P.aw(["android",b4,"C#",b5,"git",a5,"unity",b6],r,r)
+j.x=P.aw(["android",b3,"C#",b4,"git",a4,"unity",b5],r,r)
 i=O.fj()
 i.a="Azstore"
 i.c=c
-i.d=b7
+i.d=b6
 i.z="live pub link"
 i.e="https://pub.dev/packages/azstore"
 i.b="This open source flutter package handles all the encryption and formatting required to provide easy access to azure storage options via REST APIs in a flutter project. The package currently provides functions to query and upload data to Azure blobs, tables and queues and is published on pub.dev."
 i.r=H.a(["https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/Icon-App-76x76%402x.png?alt=media&token=9f1e69bc-848d-45a9-997f-4d1d67b6ea28"],s)
 i.f=H.a(["azure","dart","flutter","git"],s)
-i.x=P.aw(["azure","Azure storage APIs  were used to develop the library.","dart","Programming language used to develop library.","flutter","Dart framework used to build library.","git",a5],r,r)
+i.x=P.aw(["azure","Azure storage APIs  were used to develop the library.","dart","Programming language used to develop library.","flutter","Dart framework used to build library.","git",a4],r,r)
 h=O.fj()
 h.a="Password strength bar"
 h.c=c
-h.d=b7
+h.d=b6
 h.z="Github issue"
-h.e=b8
+h.e=b7
 h.b="This patch allows the developer to specify a variable number of progressbars and automatically sets the range of colors from RED:weakest(left) to GREEN:strongest(right)"
 h.r=H.a(["https://firebasestorage.googleapis.com/v0/b/portfoliomedia-ea5c5.appspot.com/o/95127472-f211dd80-074f-11eb-8573-f6f672647382.png?alt=media&token=087bf576-985f-4e86-ad69-c260bb61b112"],s)
 h.f=H.a(["android","git","java"],s)
-h.x=P.aw(["android","This library was built to run on android applications.","git",a5,"java",b9],r,r)
+h.x=P.aw(["android","This library was built to run on android applications.","git",a4,"java",b8],r,r)
 g=O.fj()
 g.a="Cracker"
 g.c=c
-g.d=b7
+g.d=b6
 g.z="Github repository"
-g.e=b8
+g.e=b7
 g.b="This algorithm processes any algebraic equation containing one unknown presented in form of a string and computes the value."
 g.r=H.a([],s)
 g.f=H.a(["git","java"],s)
-g.x=P.aw(["git",a5,"java",b9],r,r)
+g.x=P.aw(["git",a4,"java",b8],r,r)
 r=t.fX
-d.Q=H.a([c0,q,p,o,n,m,l,k,j,i,h,g],r)
+d.Q=H.a([b9,q,p,o,n,m,l,k,j,i,h,g],r)
 g=d.ch
 g.d9(0,"All")
 d.cx=H.a([],r)
-for(c0=d.Q,s=c0.length,f=0;f<c0.length;c0.length===s||(0,H.G)(c0),++f){e=c0[f]
+for(b9=d.Q,s=b9.length,f=0;f<b9.length;b9.length===s||(0,H.G)(b9),++f){e=b9[f]
 e.JZ()
 g.I(0,e.f)
 C.b.D(d.cx,e)}},
